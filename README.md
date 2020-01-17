@@ -47,3 +47,9 @@ While researching ways to handle setting the correct caret position for editing 
 * **More freeform mind-mapping software**. Add lines and arrows to create a whole another layer of functionality.
 
 * **Note-within-note hierarchical structure**. Storing notes within notes *ad infinitum* may be a viable solution for certain types of note-taking.
+
+# License
+
+The Unlicense. In short, it's in public domain, so do what you wish with it.
+
+For the sake of the world, do something *better* with it.
